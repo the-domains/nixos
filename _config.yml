@@ -2,6 +2,7 @@ name: nixos
 favicon: null
 layout_spectrum: 0.3096935641951859
 typography_spectrum: 0.8003783172462136
+title: Installing NIXOS on Macbook Air 2011
 cta:
   domain: null
   bucket: null

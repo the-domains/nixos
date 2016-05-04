@@ -1,0 +1,28 @@
+name: nixos
+favicon: null
+layout_spectrum: 0.3096935641951859
+typography_spectrum: 0.8003783172462136
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7430025187786669
+  lightness: 0.44195777364075184
+  saturation: 0.663283105706796
+  rhythmicContrast: 0.8624311634339392
+purpose: []
